@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+
+    <string name="no_items">No items yet.</string>
+
+    <string name="name">Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="supplier">Supplier Contact No.</string>
+
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add</string>
+    <string name="delete_all">Delete all items</string>
+
+    <string name="add_item">Add item</string>
+    <string name="edit_item">Edit item</string>
+
+    <string name="add_item_failed">Error while adding item</string>
+    <string name="add_item_successful">Item is added</string>
+
+    <string name="update_item_failed">Error in saving item</string>
+    <string name="update_item_successful">Item is saved</string>
+
+    <string name="dialog_edit">Discard changes and quit ?</string>
+    <string name="dialog_edit_quit">Quit</string>
+    <string name="dialog_edit_keep_writing">Keep writing</string>
+
+    <string name="dialog_delete">Delete this item?</string>
+    <string name="dialog_delete_yes">Yes</string>
+    <string name="dialog_delete_no">No</string>
+
+    <string name="delete_item_failed">Error in deleting item</string>
+    <string name="delete_item_successful">Item id deleted</string>
+
+    <string name="sale">Sale</string>
+
+    <string name="order">Order</string>
+</resources>
